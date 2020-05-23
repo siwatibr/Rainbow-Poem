@@ -7,5 +7,6 @@ Green
 Yello
 Red
 Violet
+Black
 
 These are the colors of the rainbow.
